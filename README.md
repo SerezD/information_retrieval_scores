@@ -1,4 +1,4 @@
-# information_retrieval_scores
+# information retrieval scores
 implementation of Cumulative Matching Characteristics (CMC) and Mean Average Precision (mAP) in pytorch
 
 Requires only pytorch and is fully parallelized (works on GPU)
